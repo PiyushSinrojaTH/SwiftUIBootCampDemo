@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "15F302BB-AD96-41CE-8C19-6743C8FBFBC7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18F8E3D8-140E-4762-BACC-B901FE4F0762"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo1/ViewModelBootcamp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getFruits()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18F8E3D8-140E-4762-BACC-B901FE4F0762 - f125c4391c432a76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Demo1.FruitViewModel.getFruits() -&gt; ()"
+                  moduleName = "Demo1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/piyushsinroja/Documents/My%20Demos/SwiftUI/Demo1/Demo1/ViewModelBootcamp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "18F8E3D8-140E-4762-BACC-B901FE4F0762 - f125c4391c432a76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Demo1.FruitViewModel.getFruits() -&gt; ()"
+                  moduleName = "Demo1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/piyushsinroja/Documents/My%20Demos/SwiftUI/Demo1/Demo1/ViewModelBootcamp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BAA4BA0-2721-4095-BF13-11EE3F29CD78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo1/ViewModelBootcamp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

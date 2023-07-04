@@ -80,7 +80,6 @@
 		1C5D01D829ED1D1A00669B73 /* ViewBuilderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D01D729ED1D1A00669B73 /* ViewBuilderBootcamp.swift */; };
 		1C5D01DA29ED29D300669B73 /* ViewModifiersBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D01D929ED29D300669B73 /* ViewModifiersBootcamp.swift */; };
 		1C5D01DC29ED463B00669B73 /* GenericsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D01DB29ED463B00669B73 /* GenericsBootcamp.swift */; };
-		1C7929922A0D0D48003ECEB4 /* copilot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C7929912A0D0D48003ECEB4 /* copilot.swift */; };
 		1C7D38FF291B72C700580A14 /* SubscriberBootCampl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C7D38FE291B72C700580A14 /* SubscriberBootCampl.swift */; };
 		1C7D3901291BA75000580A14 /* AdvancedCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C7D3900291BA75000580A14 /* AdvancedCombine.swift */; };
 		1CF80C70290124D500B8B975 /* Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF80C6F290124D500B8B975 /* Navigation.swift */; };
@@ -169,7 +168,6 @@
 		1C5D01D729ED1D1A00669B73 /* ViewBuilderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBuilderBootcamp.swift; sourceTree = "<group>"; };
 		1C5D01D929ED29D300669B73 /* ViewModifiersBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiersBootcamp.swift; sourceTree = "<group>"; };
 		1C5D01DB29ED463B00669B73 /* GenericsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericsBootcamp.swift; sourceTree = "<group>"; };
-		1C7929912A0D0D48003ECEB4 /* copilot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = copilot.swift; sourceTree = "<group>"; };
 		1C7D38FE291B72C700580A14 /* SubscriberBootCampl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootCampl.swift; sourceTree = "<group>"; };
 		1C7D3900291BA75000580A14 /* AdvancedCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedCombine.swift; sourceTree = "<group>"; };
 		1CF80C6F290124D500B8B975 /* Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigation.swift; sourceTree = "<group>"; };
@@ -313,7 +311,6 @@
 				1C5D01D929ED29D300669B73 /* ViewModifiersBootcamp.swift */,
 				1C0DAF1929EE71B100196E0F /* PreferenceKeyBootcamp */,
 				1C0DAF0A29ED5EAF00196E0F /* CustomNavBar */,
-				1C7929912A0D0D48003ECEB4 /* copilot.swift */,
 			);
 			path = Demo1;
 			sourceTree = "<group>";
@@ -455,7 +452,6 @@
 				1C47D6ED293772E100524157 /* FutureBootcamp.swift in Sources */,
 				1C49EC0829DC45640009C970 /* LazyStackBootcamp.swift in Sources */,
 				1C49EC0A29DD432B0009C970 /* ProgressViewBootcamp.swift in Sources */,
-				1C7929922A0D0D48003ECEB4 /* copilot.swift in Sources */,
 				1CF80C70290124D500B8B975 /* Navigation.swift in Sources */,
 				1CF80C742901435200B8B975 /* AlertView.swift in Sources */,
 				1C49EC2E29DFEE280009C970 /* ForEachBootcamp.swift in Sources */,

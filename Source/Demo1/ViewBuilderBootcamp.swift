@@ -133,7 +133,6 @@ struct ViewBuilderBootcamp: View {
     }
 }
 
-
 struct ViewBuilderBootcamp_Previews: PreviewProvider {
     static var previews: some View {
         ViewBuilderBootcamp()
